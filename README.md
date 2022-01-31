@@ -5,3 +5,6 @@ Hey! ImMegaYT14! Im a programmer and I LOVE JAVA!
 
 # Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaYT14&show_icons=true&theme=radical)
+
+# I currently working on:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DeveloClient;github.com/MegaYT14/DeveloClient)
