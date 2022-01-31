@@ -1,4 +1,4 @@
-Hey! ImMegaYT14! Im a programmer, I LOVE Java and I HATE Python
+Hey! ImMegaYT14! Im a programmer and I LOVE JAVA!
 
 # IDEs i use:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Eclipse;IntelliJ+Idea;Atom)
