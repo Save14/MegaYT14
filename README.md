@@ -8,6 +8,3 @@ Hey! Im MegaYT14! Im a programmer and I LOVE JAVA!
 
 # I currently working on:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23F7913B&lines=DeveloClient;Github.com%2FMegaYT14%2FDeveloClient)
-
-# My stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MegaYT14&show_icons=true&theme=radical)
