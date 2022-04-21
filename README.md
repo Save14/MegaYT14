@@ -6,24 +6,34 @@
 
 ```java
 import MegaYT14.*;
-import Minecraft.Is.The.Best.Game;
     
-public class MegaYT14 extends Coder implements Developer, Gamer {
+public class MegaYT14 extends Developer implements Gamer {
+    
     @Override
-    public void aboutMe() {
-        public String fact = "I LOVE JAVA!!!";
+    public String aboutMe() {
+        return "For me Java is the future";
     }
 
     @Override
     public void codingStuff() {
         public String[] workingOn = ["DeveloClient"];
-        public String[] learning = ["Go"];
-        public String learnt = ["Java"];
+        public String[] learning = ["Python (discord.py)"];
+        public String[] learnt = ["Java"];
     }
 
     @Override
-    public void Social() {
+    public String socials() {
         public String[] Discord = ["Save14#7156"];
+        
+        return Discord + " Yes, only Discord"
+    }
+    
+    public Battle battle() {
+        Battle war = new Battle("Java", "Python");
+        
+        war.setWinner("Java");
+        
+        return war;
     }
 }
 ```
