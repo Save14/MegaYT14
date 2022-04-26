@@ -11,7 +11,7 @@ public class MegaYT14 extends Developer implements Gamer {
     
     @Override
     public String aboutMe() {
-        return "For me Java is the future";
+        return "Java is the future";
     }
 
     @Override
