@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MegaYT14
 <h3 align="center">A Java Developer</h1>
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,json,bash&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash&includeNames=true"></p>
 
 </div>
 
@@ -44,6 +44,3 @@ public class MegaYT14 extends Developer implements Gamer {
 
 # IDEs i use:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&lines=Eclipse;IntelliJ+Idea;Visual+Studio+Code;Sublime+Text)
-
-# I currently working on:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23F7913B&lines=DeveloClient;Github.com%2FMegaYT14%2FDeveloClient)
