@@ -10,6 +10,9 @@
 
 </div>
 
+# Songs recently listened to on spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pnstvosltz2wnxagzcnkl4pgue)
+
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/822767847141933066)](https://discord.com/users/822767847141933066)
 
