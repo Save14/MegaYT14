@@ -4,14 +4,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,rust,javascript,html,css,windows" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,rust" />
   </a>
 </p>
 
 </div>
-
-# OS
-Windows (planning to switch to arch)
-
-# IDEs i use:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&lines=Eclipse;IntelliJ+Idea;Visual+Studio+Code;Sublime+Text)
